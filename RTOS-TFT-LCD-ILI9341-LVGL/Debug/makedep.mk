@@ -2,6 +2,8 @@
 # Automatically-generated file. Do not edit or delete the file
 ################################################################################
 
+src\ASF\sam\drivers\rtc\rtc.c
+
 src\ASF\sam\drivers\tc\tc.c
 
 src\ASF\thirdparty\lvgl8\examples\anim\lv_example_anim_1.c
@@ -637,8 +639,6 @@ src\Roboto_18.c
 src\Roboto_25.c
 
 src\Roboto_40.c
-
-src\Roboto_60.c
 
 src\touch\touch.c
 
